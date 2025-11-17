@@ -196,12 +196,6 @@ This project is released under the MIT License. See `LICENSE` for details.
 
 **Credits:** This project is inspired by the open-source ML community.
 
----
-
-## 👤 Author / Maintainer / Contact
-
-- **Author:** Mohammad Danish Ansari
-- **Maintainer:** Mohammad Danish Ansari
 - **Contact:** danishansari-dev (GitHub) — open issues or reach me at `danishansari-dev` on GitHub
 
 If you'd like to contribute or report issues, please open a GitHub issue or submit a PR.
