@@ -1,0 +1,12 @@
+# Ignore Python/Jupyter outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.vscode/
+
+# Ignore local datasets and cache
+data/
+
+# Ignore documentation folder
+docs/
