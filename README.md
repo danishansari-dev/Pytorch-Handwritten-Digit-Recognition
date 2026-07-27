@@ -170,16 +170,6 @@ Placeholders for `predict.py` and `evaluate.py` are available in the repository 
 
 ---
 
-## 🖼️ Screenshots
-
-Add screenshots or GIFs inside the `assets/` or `examples/` folder and reference them here. Example placeholder:
-
-![Training curve placeholder](assets/training_curve.png)
-
-If you don't have images yet, create `assets/placeholder.png` and add it to the repo.
-
----
-
 ## 🔮 Future Improvements
 
 - Replace the small CNN with a stronger baseline (e.g., ResNet18) for higher accuracy
